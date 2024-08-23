@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Map;
 
-@RequestMapping("/v1")
+@RequestMapping("/ms-markets")
 @RestController
 public class MarketsController {
 
